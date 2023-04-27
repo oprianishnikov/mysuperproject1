@@ -1,0 +1,8 @@
+name: 'security-devops-action'
+description: 'Run security analyzers.'
+author: 'Microsoft'
+inputs:
+    categories: 'all'
+    languages: 'all'
+    tools: 'all'
+    break: true
